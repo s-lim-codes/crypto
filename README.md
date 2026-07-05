@@ -1,2 +1,2 @@
 # crypto
-Crypto-related projects 
+Crypto-related projects —— just about anything, really. 
